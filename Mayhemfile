@@ -1,0 +1,13 @@
+project: trie
+ target: trie
+
+ cmds:
+   - cmd: /no_ext_insert_rem
+   - cmd: /no_ext_insert
+   - cmd: /prefix_iter
+   - cmd: /seek_iter
+   - cmd: /trie_codec_proof
+   - cmd: /trie_proof_invalid
+   - cmd: /trie_root_fix_len
+   - cmd: /trie_root_news
+   - cmd: /trie_root
